@@ -1,0 +1,7 @@
+C:\Users\ljste\Desktop\oop\oop2v2\new\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\ljste\Desktop\oop\oop2v2\new\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\ljste\Desktop\oop\oop2v2\new\lab1\bin\Debug\lab1.exe.config
+C:\Users\ljste\Desktop\oop\oop2v2\new\lab1\bin\Debug\lab1.exe
+C:\Users\ljste\Desktop\oop\oop2v2\new\lab1\bin\Debug\lab1.pdb
+C:\Users\ljste\Desktop\oop\oop2v2\new\lab1\obj\Debug\lab1.exe
+C:\Users\ljste\Desktop\oop\oop2v2\new\lab1\obj\Debug\lab1.pdb
